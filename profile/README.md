@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shopo-video">
-    <img src="logo.svg" alt="Shopo Logo" height="130">
+    <img src="profile/logo.svg" alt="Shopo Logo" height="130">
   </a>
 
 <h3 align="center">Shopo - Live shopping experiences</h3>
